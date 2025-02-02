@@ -1,150 +1,144 @@
 # DEV SAMURAI COURSE DOWNLOADER
 https://class.devsamurai.com.br
 
-## Descrição
-Este repositório contém um script em Python que permite baixar todos os cursos disponibilizados pela plataforma Dev Samurai, após a notícia do seu encerramento. O script utiliza multithreading para realizar downloads simultâneos, facilitando e agilizando o processo de obtenção dos conteúdos.<br>
-O objetivo é divulgar a boa ação da plataforma, que disponibilizou todos os seus cursos para download, garantindo acesso vitalício ao material.
+## Description
+This repository contains a Python script that allows you to download all the courses made available by the Dev Samurai platform, following the announcement of its closure. The script uses multithreading to perform simultaneous downloads, making the process of obtaining the content faster and easier.<br>
+The goal is to highlight the platform's generosity, which made all its courses available for download, ensuring lifetime access to the material.
 
+## Platform Notice - IMPORTANT
+Dear students,
 
-## Aviso da plataforma - IMPORTANTE
-Queridos(as) estudantes,
+With great gratitude and respect, we are reaching out to share an important update about our journey at Dev Samurai.
 
-Com muita gratidão e respeito, nos dirigimos a vocês para compartilhar uma importante atualização sobre a nossa jornada na Dev Samurai.
+After years dedicated to teaching programming and helping thousands of students develop skills and achieve their professional goals, we have made the decision to close the services of our teaching platform. This decision was made with great care and consideration for all of you, who are the reason we've come this far.
 
-Após anos dedicados ao ensino de programação, ajudando milhares de alunos a desenvolverem habilidades e alcançarem seus objetivos profissionais, decidimos encerrar os serviços da nossa plataforma de ensino. Esta decisão foi tomada com muito cuidado e consideração por todos vocês, que são a razão de termos chegado tão longe.
+We understand that continued access to knowledge is essential for everyone’s success. Therefore, we have made all the content from our courses available for download right below on this site, with a total size of approximately 100GB (which can be stored on a simple 128GB USB drive). This ensures you have lifetime access to all the material and can continue learning at your own pace.
 
-Entendemos que a continuidade do acesso ao conhecimento é essencial para o sucesso de todos. Por isso, disponibilizamos todo o conteúdo dos nossos cursos para download logo abaixo neste mesmo site com um tamanho total de aproximadamente 100GB (o que pode ser armazenado em um simples pendrive de 128GB). Isso garante que vocês mantenham acesso vitalício a todo o material e possam seguir estudando no seu ritmo.
+**IMPORTANT:** The files will be available for download until December 2025. Don’t wait until the last minute!
 
-**IMPORTANTE:** Os arquivos estarão disponíveis para download até dezembro de 2025. Não deixem para a última hora!
+To make it easier, we encourage everyone interested to download the courses as soon as possible. If you have any questions or difficulties, our team is here to assist. You can reach us by email at suporte@devsamurai.com.br.
 
-Para facilitar, orientamos que todos os interessados realizem o download dos cursos o mais breve possível. Em caso de dúvidas ou dificuldades, nossa equipe está à disposição para ajudar. Vocês podem entrar em contato através do e-mail: suporte@devsamurai.com.br.
+We sincerely thank you for your trust in Dev Samurai throughout this journey. The learning and success of each of you have always motivated us to continue creating high-quality content.
 
-Agradecemos imensamente pela confiança depositada na Dev Samurai ao longo dessa jornada. O aprendizado e o sucesso de cada um de vocês sempre foram o que nos motivou a continuar criando conteúdo de qualidade.
+We wish you all much success and growth in your careers and projects. May this farewell be just a new beginning on the learning path.
 
-Desejamos a todos muito sucesso e evolução em suas carreiras e projetos. Que essa despedida seja apenas um novo começo na trilha do aprendizado.
+With gratitude,
+Dev Samurai Team
 
-Com gratidão,
-Equipe Dev Samurai
-
-## Lista de Cursos
-- Aulas ao Vivo
-- Backend - Dominando o NodeJS
-- Backend - Dominando o Postgres
-- Carreira de Programador
-- Flutter - Calculadora IMC
-- Flutter - Cardápio online
+## Course List
+- Live Classes
+- Backend - Mastering NodeJS
+- Backend - Mastering Postgres
+- Programmer Career
+- Flutter - IMC Calculator
+- Flutter - Online Menu
 - Flutter - Fluck Noris
-- Flutter - Lista de Leituras
-- Flutter Avançado
-- Flutter Básico
+- Flutter - Reading List
+- Advanced Flutter
+- Basic Flutter
 - Flutter Snippets
 - Frontend - Bootstrap
 - Frontend - CSS Grid
-- Frontend - Criando seu currículo
-- Frontend - Criando seu portfólio
-- Frontend - Curriculum HTML
-- Frontend - Entendo o HTML com o CSS
+- Frontend - Creating Your Resume
+- Frontend - Creating Your Portfolio
+- Frontend - HTML Resume
+- Frontend - Understanding HTML with CSS
 - Frontend - Flexbox
-- Frontend - Formulário de Cadastro
-- Frontend - HTML Básico
-- Frontend - Loja de Café
+- Frontend - Registration Form
+- Frontend - Basic HTML
+- Frontend - Coffee Shop
 - Frontend - Mobile First
-- Frontend - Preprocessadores (Sass)
-- Frontend - Sua primeira página Web
+- Frontend - Preprocessors (Sass)
+- Frontend - Your First Web Page
 - Full Stack - Food Commerce
 - Ionic
-- JavaScript - Gerador Senhas
-- JavaScript Básico ao Avançado
+- JavaScript - Password Generator
+- JavaScript - Basic to Advanced
 - Kapi Academy - API Supreme
-- Linux para Programadores
-- Lógica de Programação Avançada
-- Lógica de Programação Básica
+- Linux for Programmers
+- Advanced Programming Logic
+- Basic Programming Logic
 - Master Classes
-- Minha Primeira Oportunidade
-- Minicurso Programar do Zero
-- Monitoria Aberta
-- Montando o ambiente Dev
-- Primeira Oportunidade
-- Programar do Zero - HTML
-- Programar do Zero - Jokenpo
-- Programar do Zero - Ping-Pong
-- Programar do Zero
-- Python - Forca
-- Python - Jogo Adivinha
-- Python - Jogo Cobrinha
-- Python - Juros Compostos
-- Python - Tabela Fipe
-- Python Avançado
-- Python Básico
-- React - API Github
-- React - Fundamentos
-- React - Lista de Leitura
-- React Native - Calculadora IMC
-- React Native - Publicando o Aplicativo
+- My First Opportunity
+- Minicourse Program from Scratch
+- Open Mentoring
+- Setting up the Dev Environment
+- First Opportunity
+- Program from Scratch - HTML
+- Program from Scratch - Rock Paper Scissors
+- Program from Scratch - Ping-Pong
+- Program from Scratch
+- Python - Hangman
+- Python - Guessing Game
+- Python - Snake Game
+- Python - Compound Interest
+- Python - Fipe Table
+- Advanced Python
+- Basic Python
+- React - Github API
+- React - Fundamentals
+- React - Reading List
+- React Native - IMC Calculator
+- React Native - Publishing the App
 - React Native - Smart Money - Firebase
 - React Native - Smart Money - Navigation V5
 - React Native - SmartMoney - Login
 - React Native - SmartMoney
 - React Native - TODO
 - React Native
-- Renda Extra 10x - Entrevistas
-- Renda Extra 10x - Mente Inabalável
-- Renda Extra 10x - Precificação de Sistemas
-- Renda Extra 10x - Treinamento extra
-- Renda Extra 10x
+- Extra Income 10x - Interviews
+- Extra Income 10x - Unshakable Mindset
+- Extra Income 10x - System Pricing
+- Extra Income 10x - Extra Training
+- Extra Income 10x
 - TypeScript - TODO List
-- TypeScript Básico
+- Basic TypeScript
 
-## COMO USAR
+## HOW TO USE
 
-1. Clone este repositório:
+1. Clone this repository:
    ```sh
-    git clone https://github.com/seu-usuario/dev-samurai-course-downloader.git
+    git clone https://github.com/your-username/dev-samurai-course-downloader.git
    
-2. Inicialize um Venv e instale as dependências:
+2. Initialize a Venv and install dependencies:
    ```sh
-    # Crie o Venv
+    # Create the Venv
     python -m venv venv
    
-    # Ative o Venv - Windows
+    # Activate the Venv - Windows
     .\venv\Scripts\activate
 
-    # Ative o Venv -Linux/macOS:
+    # Activate the Venv - Linux/macOS:
     source venv/bin/activate
 
-    # Instale o BS4
+    # Install BS4
     pip install requests beautifulsoup4
 
-3. Altere a variável referente ao diretório de download:
+3. Modify the variable for the download directory:
     ```sh
-    # ATENÇÃO: o conteúdo possui aproximadamente 100GB. Certifique-se de ter espaço disponível em disco/unidade USB.
+    # NOTE: the content is approximately 100GB. Ensure you have available space on your disk/USB drive.
     ...
     if __name__ == '__main__':
       url = 'https://class.devsamurai.com.br'
-      download_folder = r'C:\Users\User\Downloads' # Exemplo
+      download_folder = r'C:\Users\User\Downloads' # Example
     ...
     
-4. OPCIONAL: aumente a quantidade de Threads utilizadas para download:
+4. OPTIONAL: Increase the number of threads used for downloading:
     ```sh
 
-    # ATENÇÃO: aumentar a quantidade de Threads resulta em mais downloads simultâneos. Isso pode acelerar o processo de download, mas também aumentará o consumo de largura de banda e a carga sobre o servidor. Use com cautela para evitar sobrecarregar sua conexão ou a plataforma.
-    # Múltiplas conexões simultâneas de um mesmo cliente, podem também ser interpretadas como um comportamento suspeito, podendo levar a restrições de acesso ou bloqueios temporários. Recomendo ajustar a quantidade de threads com moderação para evitar problemas de conectividade.
+    # NOTE: increasing the number of threads results in more simultaneous downloads. This can speed up the download process but will also increase bandwidth usage and load on the server. Use with caution to avoid overloading your connection or the platform.
+    # Multiple simultaneous connections from the same client can also be interpreted as suspicious behavior, potentially leading to access restrictions or temporary bans. I recommend adjusting the number of threads with moderation to avoid connectivity issues.
 
     ...
     threads = []
-    for _ in range(x):  # x -> Número de threads
+    for _ in range(x):  # x -> Number of threads
         ...
         threads.append(thread)
     ...
 
-5. Execute o Projeto:
+5. Run the Project:
     ```sh
     python DownloadDevSamuraiCourses.py
 
-6. O download começará. Acompanhe pela saída no terminal que curso está sendo baixado e se foi concluído com sucesso:
+6. The download will begin. Monitor the terminal output to see which course is being downloaded and if it completed successfully:
    ![image](https://github.com/user-attachments/assets/8e627c82-d9d5-4f4c-bbb9-7752eaf7aea9)
-
-
-    
-
-
